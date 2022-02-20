@@ -19,10 +19,12 @@ THEN the deposits or expenses added while they were offline are added to their  
 
 ## Images
 Dashboard
+<br>
 <img src="images for readme/Screen Shot 2022-02-20 at 16.58.19.png">
 
 ## Links
 [My Github](https://github.com/pcancio/PWA-Budget-Tracker)
+<br>
 [Deployed App](https://secure-sea-09970.herokuapp.com/)
 
 ## License
