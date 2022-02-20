@@ -2,6 +2,7 @@
 a PWA budget tracker using MongoDB as its database that gives users a way to track their money offline.
 
 ## Installation
+npm i 
 
 ## User Story
 
